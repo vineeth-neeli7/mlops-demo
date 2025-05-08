@@ -17,5 +17,6 @@ accuracy = model.score(X_test, y_test)
 mlflow.set_experiment("RandomForest")
 with mlflow.start_run():
     mlflow.log_metric("accuracy", accuracy)
+    input_example = X_test.iloc[:5]
     mlflow.sklearn.log_model(model, "model")
     print(f"model logged with accuracy: {accuracy}")

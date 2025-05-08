@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vinee/OneDrive/Documents/Project/mlops-demo/mlruns/805089210267960296/46da3074c110434ea6a0602cd6513191/artifacts
+end_time: 1746678485553
+entry_point_name: ''
+experiment_id: '805089210267960296'
+lifecycle_stage: active
+run_id: 46da3074c110434ea6a0602cd6513191
+run_name: gaudy-vole-916
+run_uuid: 46da3074c110434ea6a0602cd6513191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746678475956
+status: 3
+tags: []
+user_id: vinee
