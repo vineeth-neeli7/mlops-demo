@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/vinee/OneDrive/Documents/Project/mlops-demo/mlruns/805089210267960296
+creation_time: 1746677251948
+experiment_id: '805089210267960296'
+last_update_time: 1746677251948
+lifecycle_stage: active
+name: RandomForest

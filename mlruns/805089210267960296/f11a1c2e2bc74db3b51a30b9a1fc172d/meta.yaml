@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vinee/OneDrive/Documents/Project/mlops-demo/mlruns/805089210267960296/f11a1c2e2bc74db3b51a30b9a1fc172d/artifacts
+end_time: 1746677268113
+entry_point_name: ''
+experiment_id: '805089210267960296'
+lifecycle_stage: active
+run_id: f11a1c2e2bc74db3b51a30b9a1fc172d
+run_name: legendary-toad-871
+run_uuid: f11a1c2e2bc74db3b51a30b9a1fc172d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746677253660
+status: 3
+tags: []
+user_id: vinee
